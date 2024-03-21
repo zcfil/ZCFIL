@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "ID": "f1xfdushq2uyfoguhcvxu4ndkc3tfomqlm4gcmwva",
+  "Issue Number": "1",
+  "Client": {
+    "Name": "test",
+    "Region": "Afghanistan",
+    "Industry": "Life Science / Healthcare",
+    "Website": "N/A",
+    "Social Media": "N/A",
+    "Social Media Type": "Slack",
+    "Role": "Dataset Owner"
+  },
+  "Project": {
+    "Project Id": "1",
+    "Brief history of your project and organization": "test",
+    "Is this project associated with other projects/ecosystem stakeholders?": "Yes",
+    "Describe the data being stored onto Filecoin": "test",
+    "Where was the data currently stored in this dataset sourced from": "AWS Cloud",
+    "How do you plan to prepare the dataset": "No response",
+    "Please share a sample of the data (a link to a file, an image, a table, etc., are good ways to do this.)": "test",
+    "Confirm that this is a public dataset that can be retrieved by anyone on the network (i.e., no specific permissions or access rights are required to view the data)": "[ ] I confirm",
+    "What is the expected retrieval frequency for this data": "Daily",
+    "For how long do you plan to keep this dataset stored on Filecoin": "Less than 1 year",
+    "In which geographies do you plan on making storage deals": "Asia other than Greater China",
+    "How will you be distributing your data to storage providers": "Cloud storage (i.e. S3)",
+    "Please list the provider IDs and location of the storage providers you will be working with. Note that it is a requirement to list a minimum of 5 unique provider IDs, and that your client address will be verified against this list in the future": "test",
+    "Can you confirm that you will follow the Fil+ guideline (Data owner should engage at least 4 SPs and no single SP ID should receive >30% of a client's allocated DataCap)": "Yes"
+  },
+  "Datacap": {
+    "Type": "ldn-v3",
+    "Data Type": "Slingshot",
+    "Total Requested Amount": "32GiB",
+    "Single Size Dataset": "1GiB",
+    "Replicas": 4,
+    "Weekly Allocation": "32GiB"
+  },
+  "Lifecycle": {
+    "State": "Granted",
+    "Validated At": "2024-03-20 13:19:42.506414026 UTC",
+    "Validated By": "zcfil",
+    "Active": true,
+    "Updated At": "2024-03-21 06:00:03.431308464 UTC",
+    "Active Request ID": "986ffbcd-f3d4-4756-9dac-22bf6854a0b3",
+    "On Chain Address": "f1xfdushq2uyfoguhcvxu4ndkc3tfomqlm4gcmwva",
+    "Multisig Address": "false"
+  },
+  "Allocation Requests": [
+    {
+      "ID": "986ffbcd-f3d4-4756-9dac-22bf6854a0b3",
+      "Request Type": "First",
+      "Created At": "2024-03-20 13:19:42.506419376 UTC",
+      "Updated At": "2024-03-20 13:19:42.506420452 UTC",
+      "Active": false,
+      "Allocation Amount": "32GiB",
+      "Signers": [
+        {
+          "Github Username": "zcfil",
+          "Signing Address": "f1cjzbiy5xd4ehera4wmbz63pd5ku4oo7g52cldga",
+          "Created At": "2024-03-21 05:59:58.656000000 UTC",
+          "Message CID": "bafy2bzaceb64cvsb4d5xs36pydla2245n2k36vs544y2k5hhwzgsc7pqpkyyq"
+        }
+      ]
+    }
+  ]
+}
