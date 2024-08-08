@@ -39,8 +39,8 @@
     "Validated At": "2024-08-06 11:55:32.681265743 UTC",
     "Validated By": "zcfil",
     "Active": true,
-    "Updated At": "2024-08-06 11:56:41.105845087 UTC",
-    "Active Request ID": "2b7a2115-2e7b-4ae8-ade3-910e1c8533e4",
+    "Updated At": "2024-08-08 06:29:39.894688176 UTC",
+    "Active Request ID": "b2d7758a-b772-4ae9-892c-932fa15571ce",
     "On Chain Address": "f1fn65ndiwdzn42l2lz4fgdek5q3wy735jtzqkicy",
     "Multisig Address": "false",
     "edited": false
@@ -59,6 +59,22 @@
           "Signing Address": "f1cjzbiy5xd4ehera4wmbz63pd5ku4oo7g52cldga",
           "Created At": "2024-08-06 11:56:38.111000000 UTC",
           "Message CID": "bafy2bzacedylz3afzm4r4fkdjycfkr4r44hpvtt6lerd4e62at3liwp3s67l4"
+        }
+      ]
+    },
+    {
+      "ID": "b2d7758a-b772-4ae9-892c-932fa15571ce",
+      "Request Type": "Refill",
+      "Created At": "2024-08-08 06:27:48.561813868 UTC",
+      "Updated At": "2024-08-08 06:27:48.561815489 UTC",
+      "Active": false,
+      "Allocation Amount": "512TiB",
+      "Signers": [
+        {
+          "Github Username": "zcfil",
+          "Signing Address": "f1cjzbiy5xd4ehera4wmbz63pd5ku4oo7g52cldga",
+          "Created At": "2024-08-08 06:29:38.572000000 UTC",
+          "Message CID": "bafy2bzacecweoptgchzed2alkw5ymbrmz2a4kvxhnofizpyzcyzyh5nbyivwy"
         }
       ]
     }
