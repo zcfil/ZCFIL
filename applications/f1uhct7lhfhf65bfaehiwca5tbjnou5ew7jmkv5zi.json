@@ -35,11 +35,11 @@
     "Weekly Allocation": "1.5PiB"
   },
   "Lifecycle": {
-    "State": "ReadyToSign",
-    "Validated At": "2024-11-27 07:36:15.353441159 UTC",
+    "State": "Granted",
+    "Validated At": "2024-11-27 07:38:36.067039213 UTC",
     "Validated By": "zcfil",
     "Active": true,
-    "Updated At": "2024-11-27 07:36:15.353445361 UTC",
+    "Updated At": "2024-11-27 07:38:36.067035633 UTC",
     "Active Request ID": "8e4abddd-17e3-4e71-803a-d8ea23656d3b",
     "On Chain Address": "f1uhct7lhfhf65bfaehiwca5tbjnou5ew7jmkv5zi",
     "Multisig Address": "false",
@@ -115,9 +115,16 @@
       "Request Type": "Refill",
       "Created At": "2024-11-27 07:36:15.353451904 UTC",
       "Updated At": "2024-11-27 07:36:15.353452854 UTC",
-      "Active": true,
+      "Active": false,
       "Allocation Amount": "2PiB",
-      "Signers": []
+      "Signers": [
+        {
+          "Github Username": "zcfil",
+          "Signing Address": "f1cjzbiy5xd4ehera4wmbz63pd5ku4oo7g52cldga",
+          "Created At": "2024-11-27 07:38:34.428000000 UTC",
+          "Message CID": "bafy2bzacedrfa2rom4achkaqmhujihljsxbq5qll6k4cam6txjubf6glgwdci"
+        }
+      ]
     }
   ]
 }
