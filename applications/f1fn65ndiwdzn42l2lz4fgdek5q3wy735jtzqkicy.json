@@ -35,7 +35,7 @@
     "Weekly Allocation": "2PiB"
   },
   "Lifecycle": {
-    "State": "ChangesRequested",
+    "State": "Granted",
     "Validated At": "2024-10-29 02:48:00.820858912 UTC",
     "Validated By": "zcfil",
     "Active": true,
