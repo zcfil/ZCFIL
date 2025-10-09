@@ -2,6 +2,7 @@
   "Version": "1.3",
   "ID": "f1togyxnizj64jxlheinmlek3jtxbsuvlvpwetpbi",
   "Issue Number": "44",
+  "Client Contract Address": "f410ffnflsbfqxiu34r3yqjjv4wo6w2h3uuqav56eemy",
   "Client": {
     "Name": "Hileap Medtech (Shanghai) Corp.",
     "Region": "China",
@@ -35,15 +36,25 @@
     "Weekly Allocation": "2PiB"
   },
   "Lifecycle": {
-    "State": "Submitted",
-    "Validated At": "",
-    "Validated By": "",
+    "State": "ReadyToSign",
+    "Validated At": "2025-10-09 18:31:40.155656093 UTC",
+    "Validated By": "zcfil",
     "Active": true,
-    "Updated At": "2025-10-09 18:01:58.143596044 UTC",
-    "Active Request ID": "",
+    "Updated At": "2025-10-09 18:31:40.155661119 UTC",
+    "Active Request ID": "b9417f06-98bd-4362-8d15-1b7f7af7d081",
     "On Chain Address": "f1togyxnizj64jxlheinmlek3jtxbsuvlvpwetpbi",
     "Multisig Address": "false",
     "edited": false
   },
-  "Allocation Requests": []
+  "Allocation Requests": [
+    {
+      "ID": "b9417f06-98bd-4362-8d15-1b7f7af7d081",
+      "Request Type": "First",
+      "Created At": "2025-10-09 18:31:40.155663527 UTC",
+      "Updated At": "2025-10-09 18:31:40.155664730 UTC",
+      "Active": true,
+      "Allocation Amount": "281474976710656 B",
+      "Signers": []
+    }
+  ]
 }
