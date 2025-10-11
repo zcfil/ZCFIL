@@ -37,11 +37,11 @@
   },
   "Lifecycle": {
     "State": "Granted",
-    "Validated At": "2025-10-11 21:31:33.954346508 UTC",
+    "Validated At": "2025-10-11 21:33:32.587346142 UTC",
     "Validated By": "zcfil",
     "Active": true,
-    "Updated At": "2025-10-11 21:31:33.954341025 UTC",
-    "Active Request ID": "b5ffd2b4-18dd-4e71-beb8-79bb5f867cbc",
+    "Updated At": "2025-10-11 21:33:32.587345240 UTC",
+    "Active Request ID": "9645da4f-ed02-4773-8471-150ea13e17e7",
     "On Chain Address": "f1togyxnizj64jxlheinmlek3jtxbsuvlvpwetpbi",
     "Multisig Address": "false",
     "edited": false
@@ -114,6 +114,43 @@
               "3500000 ",
               "2822088 ",
               "3377777 "
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "ID": "e3df564e-3224-4c27-aa9f-cbf8b27d0c10",
+      "Created At": "2025-10-11 21:33:32.587325259 UTC",
+      "Updated At": "2025-10-11 21:33:32.587331029 UTC",
+      "Active": false,
+      "Allowed Storage Providers": [
+        3373373,
+        3377773,
+        3377778,
+        3499999,
+        3500000,
+        2822088,
+        3377777,
+        3519199,
+        3519200,
+        3519208,
+        2808899,
+        3175111,
+        3175168
+      ],
+      "Signers": [
+        {
+          "Github Username": "zcfil",
+          "Signing Address": "f1cjzbiy5xd4ehera4wmbz63pd5ku4oo7g52cldga",
+          "Add Allowed Storage Providers CID": {
+            "bafy2bzacea5wplpaxdh57cjv2iszmj34d5at457kk5w5sr63hkb37rmiphyme": [
+              "3519199",
+              "3519200",
+              "3519208",
+              "2808899 ",
+              "3175111 ",
+              "3175168"
             ]
           }
         }
