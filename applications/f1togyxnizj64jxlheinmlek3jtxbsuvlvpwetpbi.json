@@ -36,11 +36,11 @@
     "Weekly Allocation": "2PiB"
   },
   "Lifecycle": {
-    "State": "ReadyToSign",
-    "Validated At": "2025-10-14 15:35:41.039586860 UTC",
+    "State": "Granted",
+    "Validated At": "2025-10-14 15:39:13.022513920 UTC",
     "Validated By": "zcfil",
     "Active": true,
-    "Updated At": "2025-10-14 15:35:41.039590652 UTC",
+    "Updated At": "2025-10-14 15:39:13.022509487 UTC",
     "Active Request ID": "337d6d3a-ca40-43bc-9794-2410bf275af4",
     "On Chain Address": "f1togyxnizj64jxlheinmlek3jtxbsuvlvpwetpbi",
     "Multisig Address": "false",
@@ -88,9 +88,18 @@
       "Request Type": "Refill",
       "Created At": "2025-10-14 15:35:41.039596019 UTC",
       "Updated At": "2025-10-14 15:35:41.039596688 UTC",
-      "Active": true,
+      "Active": false,
       "Allocation Amount": "844424930131968B",
-      "Signers": []
+      "Amount of Datacap Sent to Contract": "844424930131968B",
+      "Signers": [
+        {
+          "Github Username": "zcfil",
+          "Signing Address": "f1cjzbiy5xd4ehera4wmbz63pd5ku4oo7g52cldga",
+          "Created At": "2025-10-14 15:39:10.121000000 UTC",
+          "Message CID": "bafy2bzaceabxu43fejqkwlg7b6xnl6jkjrcbrnagqi5n7i5fi5h76ww5hi4pu",
+          "Increase allowance CID": "bafy2bzacecebpasooxrk7ky5kcxhpaarv3ywr7aa7zbmaqnqv7jxbpbyqcsd4"
+        }
+      ]
     }
   ],
   "Storage Providers Change Requests": [
