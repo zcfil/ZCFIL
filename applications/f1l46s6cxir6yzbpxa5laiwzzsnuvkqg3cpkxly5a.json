@@ -1,0 +1,49 @@
+{
+  "Version": "1.3",
+  "ID": "f1l46s6cxir6yzbpxa5laiwzzsnuvkqg3cpkxly5a",
+  "Issue Number": "52",
+  "Client": {
+    "Name": "Quantum Finch Research",
+    "Region": "United States",
+    "Industry": "IT & Technology Services",
+    "Website": "",
+    "Social Media": "mark_sample00@proton.me",
+    "Social Media Type": "Other",
+    "Role": "Dataset Owner"
+  },
+  "Project": {
+    "Brief history of your project and organization": "Share a brief history of your project and organization\nQuantum Finch Research (QFR) is an enterprise R&D organization specializing in advanced laser systems, optical-material diagnostics, and high-precision beam-propagation modeling. Founded in 2019, QFR supports industrial partners in sectors such as:\n* manufacturing automation\n* precision machining\n* semiconductor lithography\n* aerospace-grade optical instrumentation\nQFR develops proprietary laser calibration models, long-range optical field simulations, and internal performance-tracking datasets for next-generation laser equipment.\nAs our internal datasets have grown in both size and complexity, we began evaluating decentralized long-term storage solutions. QFR has limited operational knowledge of the Filecoin ecosystem, so part of this application includes seeking:\n* assistance with proper data preparation\n* guidance on CAR file creation for large scientific datasets\n* support from SPs experienced in sealing industrial R&D data\n* help identifying stable and reliable Storage Providers",
+    "Is this project associated with other projects/ecosystem stakeholders?": "No",
+    "Describe the data being stored onto Filecoin": "Describe the data being stored onto Filecoin\nThe dataset — Laser Systems Optics Research Archive (L-SORA Vault) — contains proprietary internal R&D data used to design, model, calibrate, and validate industrial laser systems.\nIt includes:\n* high-resolution optical simulation outputs\n* beamform propagation models\n* multi-layer optical coherence measurements\n* laser tuning and calibration checkpoints\n* thermal drift behavior datasets\n* beam-profiling diagnostics captured from experimental hardware\n* ML-driven beam-stability predictions\nThese datasets are critical for:\n* iterative development of QFR’s next-generation laser modules\n* compliance and traceability in manufacturing environments\n* long-term reproducibility of optical experiments\n* historical benchmarking and regression testing\nThis is a closed enterprise dataset, not intended for public access, and stored solely for long-term archiving, auditing, and internal R&D continuity.\nWhere was the data sourced from?\nFrom QFR’s proprietary optical simulation engines, in-house hardware diagnostics labs, and licensed optical-material datasets under confidentiality agreements.",
+    "Where was the data currently stored in this dataset sourced from": "My Own Storage Infra",
+    "How do you plan to prepare the dataset": "Given our limited experience with the Filecoin ecosystem, and considering that we are not acting as the data preparer, we expect to follow best practices recommended by experienced SPs or by the allocator regarding data preparation and encryption. We will adjust our processes to align with the requirements defined by the Storage Providers or the Filecoin guidelines. We are also actively searching for SPs who can collaborate with us throughout the data storage process.",
+    "Please share a sample of the data (a link to a file, an image, a table, etc., are good ways to do this.)": "corporate encrypted dataset",
+    "Confirm that this is a public dataset that can be retrieved by anyone on the network (i.e., no specific permissions or access rights are required to view the data)": "[ ] I confirm",
+    "What is the expected retrieval frequency for this data": "",
+    "For how long do you plan to keep this dataset stored on Filecoin": "Less than 1 year",
+    "In which geographies do you plan on making storage deals": "Europe, North America",
+    "How will you be distributing your data to storage providers": "HTTP or FTP server",
+    "Please list the provider IDs and location of the storage providers you will be working with. Note that it is a requirement to list a minimum of 5 unique provider IDs, and that your client address will be verified against this list in the future": "We are actively searching for suitable Storage Providers, and any support or introductions from the allocator to SPs who could assist with storing the required replicas would be greatly appreciated.\nFor now we have two SP's that we can cooperate\nf0187709\nf01222595",
+    "Can you confirm that you will follow the Fil+ guideline (Data owner should engage at least 4 SPs and no single SP ID should receive >30% of a client's allocated DataCap)": ""
+  },
+  "Datacap": {
+    "Type": "ldn-v3",
+    "Data Type": "Slingshot",
+    "Total Requested Amount": "100 TiB",
+    "Single Size Dataset": "25 TiB",
+    "Replicas": 2,
+    "Weekly Allocation": "4"
+  },
+  "Lifecycle": {
+    "State": "Submitted",
+    "Validated At": "",
+    "Validated By": "",
+    "Active": true,
+    "Updated At": "2026-02-23 11:12:12.626114380 UTC",
+    "Active Request ID": "",
+    "On Chain Address": "f1l46s6cxir6yzbpxa5laiwzzsnuvkqg3cpkxly5a",
+    "Multisig Address": "false",
+    "edited": false
+  },
+  "Allocation Requests": []
+}
